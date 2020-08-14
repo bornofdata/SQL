@@ -4,13 +4,13 @@ SQL Projects
 
 Note: When querying a table, remember to prepend dsv1069, which is the schema, or folder
 that contains the course data.
-Exercise 1:
+## Exercise 1:
 Goal: Here we use users table to pull a list of user email addresses. Edit the query to pull email
 addresses, but only for non-deleted users.
 Starter Code:
 SELECT *
 FROM dsv1069.users
-Exercise 2:
+## Exercise 2:
 --Goal: Use the items table to count the number of items for sale in each category
 Starter Code: (none)
 Exercise 3:
